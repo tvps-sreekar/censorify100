@@ -1,0 +1,19 @@
+{
+    "author":"sreekar",
+    "name":"censorify100",
+    "version":"0.0.1",
+    "description":"censored words out of text",
+    "main" : "abcd",
+    "repository" :{
+        "type":"git",
+        "url":"https://github.com/tvps-sreekar/censorify100"
+    },
+    "keywords" :[
+       "censor",
+       "words"
+    ],
+    "dependencies":{},
+     "engines":{
+        "node":"*"
+     }
+}
